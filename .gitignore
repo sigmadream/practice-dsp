@@ -626,5 +626,7 @@ FodyWeavers.xsd
 
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
-
+### JUCE
+JuceLibraryCode/
+Builds/
 # End of https://www.toptal.com/developers/gitignore/api/visualstudio,c++,clion,cmake,premake-gmake,visualstudiocode,windows,macos,linux
