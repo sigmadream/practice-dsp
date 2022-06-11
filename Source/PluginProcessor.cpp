@@ -418,6 +418,7 @@ ChainSettings getChainSettings(juce::AudioProcessorValueTreeState& apvts)
     return settings;
 }
 
+
 juce::AudioProcessorValueTreeState::ParameterLayout SdEQAudioProcessor::createParameterLayout()
 {
     juce::AudioProcessorValueTreeState::ParameterLayout layout;
